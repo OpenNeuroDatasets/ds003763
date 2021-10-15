@@ -7,6 +7,6 @@ Krotenkova, M. V. (2020). [The interrelation between interoception and emotional
 
 The Matlab script used for stimuli presentation is contained in the "presentation_script.tar.gz" achive.
 
-The file participants.tsv contains data on self-reported medical conditions ("hypertension" — primary arterial hypertension, "gastrointestinal"  — gastrointestinal diseases,	"thyroiditis" — autoimmune thyroiditis, "diabetes" — type 2 diabetes mellitus), Beck Depression Inventory ("BDI"), Spielberger State-Trait Anxiety Inventory ("SSTAI_S" — state anxiety, "SSTAI_T" — trait anxiety), interoceptive accuracy ("IAcc").
+The file participants.tsv contains data on age, sex, self-reported medical conditions ("hypertension" — primary arterial hypertension, "gastrointestinal"  — gastrointestinal diseases,	"thyroiditis" — autoimmune thyroiditis, "diabetes" — type 2 diabetes mellitus), Beck Depression Inventory ("BDI"), Spielberger State-Trait Anxiety Inventory ("SSTAI_S" — state anxiety, "SSTAI_T" — trait anxiety), interoceptive accuracy ("IAcc").
 
 27 participants also undewent rubber hand illusion. The data is contained in participants.tsv: "drift_emerg_15" corresponds to the proprioceptive drift after 15 s from the onset of emergence phase, "test_own_15" and "control_own_15" correspond to the sum of test and control questions from the ownership questionary after 15 s from the onset of emergence phase. Publication with detailed task description is under review, reference will be provided later.
