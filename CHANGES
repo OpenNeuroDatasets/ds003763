@@ -1,3 +1,5 @@
+1.0.5 2022-03-23
+  - Typo error corrected
 1.0.4 2022-03-23
   - Data from 33 subjects was added to the dataset. Data from sub-09300 were removed due to the discovered artifacts.
 1.0.3 2021-10-16
